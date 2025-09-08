@@ -6,15 +6,15 @@ Gistify is a Chrome extension that uses **Google Gemini AI** to generate concise
 
 ## 🚀 Features
 
-* 🔹 Summarize any webpage instantly
-* 🔹 Choose summary type (Brief, Detailed, etc.)
-* 🔹 One-click **Copy** to clipboard
-* 🔹 **Read Aloud** summaries using Text-to-Speech
-* 🔹 **Ask a Question** – get AI-powered answers from the article
-* 🔹 **Explain Like I’m 5 (ELI5)** – simplify complex or technical content
-* 🔹 Secure API key storage in extension settings
-* 🔹 Clean and responsive popup UI
-* 🔹 Works across **all websites**
+*  Summarize any webpage instantly
+*  Choose summary type (Brief, Detailed, etc.)
+*  One-click **Copy** to clipboard
+*  **Read Aloud** summaries using Text-to-Speech
+*  **Ask a Question** – get AI-powered answers from the article
+*  **Explain Like I’m 5 (ELI5)** – simplify complex or technical content
+*  Secure API key storage in extension settings
+*  Clean and responsive popup UI
+*  Works across **all websites**
 
 ---
 
